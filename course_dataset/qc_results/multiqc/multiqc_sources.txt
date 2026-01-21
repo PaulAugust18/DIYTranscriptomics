@@ -1,0 +1,23 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	Fastqc | SRR8668755	/Users/paoloagosti/Desktop/course_dataset/Fastqc/test.log
+Kallisto	all_sections	Kallisto | SRR8668769	/Users/paoloagosti/Desktop/course_dataset/Kallisto/CL08.log
+Kallisto	all_sections	Kallisto | SRR8668771	/Users/paoloagosti/Desktop/course_dataset/Kallisto/CL10.log
+Kallisto	all_sections	Kallisto | SRR8668772	/Users/paoloagosti/Desktop/course_dataset/Kallisto/CL11.log
+Kallisto	all_sections	Kallisto | SRR8668773	/Users/paoloagosti/Desktop/course_dataset/Kallisto/CL12.log
+Kallisto	all_sections	Kallisto | SRR8668774	/Users/paoloagosti/Desktop/course_dataset/Kallisto/CL13.log
+Kallisto	all_sections	Kallisto | SRR8668755	/Users/paoloagosti/Desktop/course_dataset/Kallisto/HS01.log
+Kallisto	all_sections	Kallisto | SRR8668756	/Users/paoloagosti/Desktop/course_dataset/Kallisto/HS02.log
+Kallisto	all_sections	Kallisto | SRR8668757	/Users/paoloagosti/Desktop/course_dataset/Kallisto/HS03.log
+Kallisto	all_sections	Kallisto | SRR8668758	/Users/paoloagosti/Desktop/course_dataset/Kallisto/HS04.log
+Kallisto	all_sections	Kallisto | SRR8668759	/Users/paoloagosti/Desktop/course_dataset/Kallisto/HS05.log
+FastQC	all_sections	Fastqc | SRR8668755	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668755.fastq-003_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668755_1M_subsample	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668756	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668756.fastq-008_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668757	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668757.fastq-004_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668758	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668759	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668759_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668769	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668769.fastq-006_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668771	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668771.fastq-009_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668772	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668772.fastq-005_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668773	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668773.fastq-007_fastqc.zip
+FastQC	all_sections	Fastqc | SRR8668774	/Users/paoloagosti/Desktop/course_dataset/Fastqc/SRR8668774.fastq-002_fastqc.zip
